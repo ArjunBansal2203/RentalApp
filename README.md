@@ -1,6 +1,9 @@
 # RentalApp
 Arjun Bansal 
+
+Can you this account if want to login with existing account:
 Email-arjunbansal2203@gmail.com
+Password-arjun77#
 
 INSTALL: base.rental.apk
 1. OPEN base.rental.apk
