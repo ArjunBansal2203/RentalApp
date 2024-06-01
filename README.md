@@ -1,7 +1,7 @@
 # RentalApp
 Arjun Bansal 
 
-Can you this account if want to login with existing account:
+You can use this existing account as reference:
 Email-arjunbansal2203@gmail.com
 Password-arjun77#
 
